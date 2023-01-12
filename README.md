@@ -8,4 +8,4 @@ Curso de PHP - CursoemVideo
 
 ## introdução
 
-### aprenda a usar o php
+### aprenda a usar o phpp
